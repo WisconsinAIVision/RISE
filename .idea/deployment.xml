@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PublishConfigData" autoUpload="Always" serverName="zeyihuang@waiv1.cs.wisc.edu:22 password" remoteFilesAllowedToDisappearOnAutoupload="false">
+    <serverData>
+      <paths name="zeyihuang@waiv1.cs.wisc.edu:22">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/nobackup3/zeyi/Distill_CLIP_light_W1" local="$PROJECT_DIR$" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="zeyihuang@waiv1.cs.wisc.edu:22 password">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/nobackup3/zeyi/Distill_CLIP_light_W1" local="$PROJECT_DIR$" />
+          </mappings>
+        </serverdata>
+      </paths>
+    </serverData>
+    <option name="myAutoUpload" value="ALWAYS" />
+  </component>
+</project>
