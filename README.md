@@ -49,7 +49,7 @@ Training mix of teachers might need more than one GPU. Please adjust the GPU cou
 
 ```
 python evaluate_results.py\
-       --dataset "PACS" --output_foler "sweep1"
+       --dataset "PACS" --output_folder "sweep1"
 ```
 The model is selected by training-domain validation criteria.
 
